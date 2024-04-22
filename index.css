@@ -533,7 +533,7 @@ body.is-instant:after {
     background-repeat: no-repeat, repeat;
     -webkit-backdrop-filter: blur(1.975rem);
     backdrop-filter: blur(1.975rem);
-    border-color: #9d00ff;
+    border-color: #0055ff;
     border-style: solid;
     border-radius: 3rem;
 }
@@ -605,7 +605,7 @@ body.is-instant:after {
 }
 
 .container.style1.columns > .wrapper > .inner > *:before {
-    border-left: solid 2px #9d00ff;
+    border-left: solid 2px #0055ff;
     content: '';
     display: block;
     margin-left: calc((var(--gutters) * -0.5) - 1px);
@@ -720,7 +720,7 @@ hr.style1:not(:last-child) {
 
 hr.style1:before {
     width: 13rem;
-    background-color: #9d00ff;
+    background-color: #0055ff;
     background-image: linear-gradient(166deg, #000000 26%, rgba(255,215,0,0.008) 89%);
     background-position: 0% 0%;
     background-repeat: repeat;
@@ -769,7 +769,7 @@ h1.style3 > *, h2.style3 > *, h3.style3 > *, p.style3 > * {
 }
 
 h1.style2, h2.style2, h3.style2, p.style2 {
-    color: #67009e;
+    color: #00529e;
     font-family: 'Inter', sans-serif;
     letter-spacing: 0.025rem;
     width: calc(100% + 0.025rem);
@@ -783,7 +783,7 @@ h1.style2 strong, h2.style2 strong, h3.style2 strong, p.style2 strong {
 }
 
 h1.style2 a, h2.style2 a, h3.style2 a, p.style2 a {
-    color: #9d00ff;
+    color: #0055ff;
     text-decoration: underline;
 }
 
@@ -894,7 +894,7 @@ h1.style1 span.p:nth-child(n + 2), h2.style1 span.p:nth-child(n + 2), h3.style1 
 }
 
 .buttons.style1 .button svg {
-    fill: #9d00ff;
+    fill: #0055ff;
 }
 
 .buttons.style1 .button:hover {
@@ -967,7 +967,7 @@ h1.style1 span.p:nth-child(n + 2), h2.style1 span.p:nth-child(n + 2), h3.style1 
 }
 
 .list.style1 a {
-    color: #9d00ff;
+    color: #0055ff;
     text-decoration: underline;
 }
 
@@ -1092,15 +1092,15 @@ h1.style1 span.p:nth-child(n + 2), h2.style1 span.p:nth-child(n + 2), h3.style1 
 }
 
 #icons01 .n01 svg {
-    fill: #9d00ff;
+    fill: #0055ff;
 }
 
 #icons01 .n02 svg {
-    fill: #9d00ff;
+    fill: #0055ff;
 }
 
 #icons01 .n03 svg {
-    fill: #9d00ff;
+    fill: #0055ff;
 }
 
 .image {
